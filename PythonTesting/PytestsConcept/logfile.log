@@ -1,0 +1,11 @@
+2020-07-22 16:29:24,341 :INFO : test_editProfile : Ram
+2020-07-22 16:29:24,357 :INFO : test_editProfile : Kumar
+2020-07-22 16:30:07,075 :INFO : test_editProfile : Ram
+2020-07-22 16:30:07,075 :INFO : test_editProfile : Kumar
+2020-07-22 16:37:19,380 :INFO : test_editProfile : Ram
+2020-07-22 16:37:19,380 :INFO : test_editProfile : Kumar
+2020-07-22 16:38:09,664 :INFO : test_editProfile : Ram
+2020-07-22 16:38:09,664 :INFO : test_editProfile : Kumar
+2020-07-22 16:38:09,664 :CRITICAL : PytestsConcept.test_loggingConcept : Critical issue
+2020-07-22 20:57:19,194 :INFO : test_editProfile : Ram
+2020-07-22 20:57:19,194 :INFO : test_editProfile : Kumar
