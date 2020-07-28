@@ -49,3 +49,6 @@ for l in range(10):  # prints 0 to 9
 print("***((())***")
 print("***((())***")
 print("***((())***")
+print("***1***")
+print("***2***")
+print("***3***")
