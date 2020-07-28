@@ -17,3 +17,4 @@ str3 = " Welcome "
 print(str3.strip())  # it removes the spaces from both start and end
 print(str3.lstrip())  # it removes lest side space
 print(str3.rstrip())  # it removes right side space
+print(str2)
