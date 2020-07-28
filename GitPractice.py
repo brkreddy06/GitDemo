@@ -20,3 +20,5 @@ print(str3.rstrip())  # it removes right side space
 
 print(str)
 print(str3)
+
+print("************************** git *******************")
